@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="hadoopShare">
+    <CLASSES>
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/client" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/yarn" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/hdfs" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/mapreduce" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common/jdiff" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/hdfs/jdiff" />
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/mapreduce/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/client" recursive="false" />
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>

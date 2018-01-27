@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hadoopLib">
+    <CLASSES>
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common/lib" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common/lib" recursive="false" />
+    <jarDirectory url="file://F:/Program Files/hadoop-3.0.0/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
