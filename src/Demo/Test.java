@@ -1,3 +1,5 @@
+package Demo;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.*;
 import org.apache.hadoop.io.IOUtils;
@@ -5,6 +7,9 @@ import org.apache.hadoop.io.IOUtils;
 
 import java.net.URI;
 
+/**
+ * 测试是否连接上远程Hadoop主机
+ */
 public class Test {
   public static String hdfsUrl="hdfs://192.168.68.128:9000";
   //获取hdfs的句柄
